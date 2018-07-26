@@ -1,6 +1,8 @@
 Homebrew Infection Formula
 ==========================
 
+# This repository is deprecated. The Infection tap has moved to https://github.com/infection/homebrew-infection
+
 This repository contains a [Homebrew](https://brew.sh) formula for installing [Infection](https://infection.github.io/) on MacOS.
 
 ## Usage
